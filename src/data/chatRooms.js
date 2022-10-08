@@ -1,5 +1,5 @@
 export const chatRooms = [
-  { id: 'dogs', title: '💻 Programming 💻' },
+  { id: 'programming', title: '💻 Programming 💻' },
   { id: 'food', title: '🍔 Food 🍔' },
   { id: 'general', title: '💬 General 💬' },
   { id: 'news', title: '🗞 News 🗞' },
